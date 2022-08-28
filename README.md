@@ -7,7 +7,7 @@
 
 <img aling="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
 
-![Snake animation](https://github.com/icolasSSantos/NicolasSSantos/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/NicolasSSantos/NicolasSSantos/blob/output/github-contribution-grid-snake.svg)
           
 <!--
 - 🔭 I’m currently working on ...
