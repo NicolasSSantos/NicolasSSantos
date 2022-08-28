@@ -3,7 +3,7 @@
 [![MasterHead](your image link)](your GitHub link)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NicolasSSantos&theme=dracula&layout=compact)](https://github.com/NicolasSSantos/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NicolasSSantos&theme=dark&layout=compact)](https://github.com/NicolasSSantos/github-readme-stats)
 
 <div style="display: inline_block">
           <img aling="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
