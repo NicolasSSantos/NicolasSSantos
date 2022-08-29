@@ -40,20 +40,26 @@
   <img height="140em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=NicolasSSantos&count_private=true&layout=compact&langs_count=7&theme=dark&hide_title=true"/>
 </div>
 
-<!--
-<div>
+
+<div align="center">
   <h2>My workstation</h2>
 </div>
 
-https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white
-https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white
+<div align="center">
+  <p>I use two operating systems (dual boot)</p>
+  <img src="https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
+</div>
 
+<br>
 
-https://img.shields.io/badge/Epic%20Games-313131?style=for-the-badge&logo=Epic%20Games&logoColor=white
-https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white
-https://img.shields.io/badge/Xbox-107C10?style=for-the-badge&logo=xbox&logoColor=white
-https://img.shields.io/badge/Riot_Games-D32936?style=for-the-badge&logo=riot-games&logoColor=white
--->
+<div align="center">
+  <p>Games side of the force</p> 
+  <img src="https://img.shields.io/badge/Epic%20Games-313131?style=for-the-badge&logo=Epic%20Games&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Xbox-107C10?style=for-the-badge&logo=xbox&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Riot_Games-D32936?style=for-the-badge&logo=riot-games&logoColor=white"/>
+</div>
 
 <h2 align="center">My Contribution</h2>
 
