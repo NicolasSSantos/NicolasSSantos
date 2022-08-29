@@ -1,24 +1,23 @@
-### Hi there 👋
+<div>
+  <h3>👋 Hello! Welcome to my Github profile.</h2>
+  <h3>My name is Nicolas</h2>
+</div>
 
-<!--
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+- 🔭 I am currently working on building a portfolio
+- 🌱 I'm learning Java
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
-<h2 align="center">Reach me out on </h2>
-
-<div align="center">
+<div>
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"/>
   <img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white"/>
   <img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"/>
 </div>
+
+<br>
+
+
+
 
 <div align="center">
   <h2>Languages</h2>
@@ -42,8 +41,9 @@
 
 
 <div align="center">
-  <h2>My workstation</h2>
+  <h2>Workstation</h2>
 </div>
+
 
 <div align="center">
   <p>I use two operating systems (dual boot)</p>
@@ -61,7 +61,7 @@
   <img src="https://img.shields.io/badge/Riot_Games-D32936?style=for-the-badge&logo=riot-games&logoColor=white"/>
 </div>
 
-<h2 align="center">My Contribution</h2>
+<h2 align="center">Contribution</h2>
 
 <p align="center">
   <img src="https://github.com/NicolasSSantos/NicolasSSantos/raw/output/github-contribution-grid-snake.svg" alt="snake">
