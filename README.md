@@ -1,3 +1,7 @@
+</p align="center">
+  <img align="right" height="250" src="https://media.giphy.com/media/jdOm0IddQuJP2/giphy.gif" />
+<p align="center">
+
 <div>
   <h3>👋 Hello! Welcome to my Github profile.</h2>
   <h3>My name is Nicolas</h2>
@@ -8,16 +12,21 @@
 - 📫 How to reach me: ...
 
 <div>
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"/>
+  <a href="https://www.linkedin.com/in/nicolas-soares-797847121/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+  </a>
+  <a href="mailto:nicolassoares.santos@outlook.com" target="_blank">
+  <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank">
+  </a>
+  <a href="https://www.codewars.com/users/NicolasSSantos" target="_blank">
+  <img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white" target="_blank">
+  </a>
+  <a href="https://open.spotify.com/user/nicolassoares.santos" target="_blank">
+  <img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" target="_blank">
+  </a>
 </div>
 
 <br>
-
-
-
 
 <div align="center">
   <h2>Languages</h2>
@@ -39,6 +48,7 @@
   <img height="140em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=NicolasSSantos&count_private=true&layout=compact&langs_count=7&theme=dark&hide_title=true"/>
 </div>
 
+<br>
 
 <div align="center">
   <h2>Workstation</h2>
@@ -55,10 +65,18 @@
 
 <div align="center">
   <p>Games side of the force</p> 
-  <img src="https://img.shields.io/badge/Epic%20Games-313131?style=for-the-badge&logo=Epic%20Games&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Xbox-107C10?style=for-the-badge&logo=xbox&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Riot_Games-D32936?style=for-the-badge&logo=riot-games&logoColor=white"/>
+  <a href="https://steamcommunity.com/id/n1kolau/" target="_blank">
+  <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" target="_blank">
+  </a>
+  <a href="" target="_blank">
+  <img src="https://img.shields.io/badge/Epic%20Games-313131?style=for-the-badge&logo=Epic%20Games&logoColor=white" target="_blank">
+  </a>
+  <a href="" target="_blank">
+  <img src="https://img.shields.io/badge/Xbox-107C10?style=for-the-badge&logo=xbox&logoColor=white" target="_blank">
+  </a>
+  <a href="" target="_blank">
+  <img src="https://img.shields.io/badge/Riot_Games-D32936?style=for-the-badge&logo=riot-games&logoColor=white" target="_blank">
+  </a>
 </div>
 
 <h2 align="center">Contribution</h2>
