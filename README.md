@@ -46,7 +46,11 @@
 
 <div align="center">
   <img height="140em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=NicolasSSantos&count_private=true&layout=compact&theme=dark&hide_title=true"/>
+  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 </div>
+
+
 
 <br>
 
