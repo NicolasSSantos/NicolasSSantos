@@ -21,9 +21,6 @@
   <a href="https://www.codewars.com/users/NicolasSSantos" target="_blank">
   <img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white" target="_blank">
   </a>
-  <a href="https://open.spotify.com/user/nicolassoares.santos" target="_blank">
-  <img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" target="_blank">
-  </a>
 </div>
 
 <br>
